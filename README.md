@@ -10,7 +10,7 @@ Hey there! 👋 Welcome to my web development project. This is a web project whe
 
 ## Live Link
 
-Check out the live project [here](insert_live_link).
+Check out the live project [[here](https://anawrulkabir.github.io/Code-Canvas/#)].
 
 
 ## Video Demo
